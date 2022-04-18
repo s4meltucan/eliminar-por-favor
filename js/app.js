@@ -144,6 +144,7 @@
 import { sandia } from "./fruta.js";
 
 console.log(sandia)
+console.log(sandia, " segundo commit")
 
 //***********************************************************
 // class Persona {
